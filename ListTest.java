@@ -38,6 +38,11 @@ public class ListTest {
         merge2.add("b");
 
         List<String> result = ListExamples.merge(merg1, merge2);
+
+        for (int i=0; i<5;++i)
+        {
+            assert
+        }
     }
     
 }
